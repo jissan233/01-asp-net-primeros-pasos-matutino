@@ -2,4 +2,4 @@
 
 Prácticas de ASP.Net
 
-**Bidkar Aragón Cárdenas**
+**Jissan Manuel Luna Tejeda**
